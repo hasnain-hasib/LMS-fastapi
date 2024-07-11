@@ -1,0 +1,23 @@
+[
+    {
+        "email": "vegeta@example.com",
+        "role": 2,
+        "password": "testing123",
+        "created_at": "2024-0703 01:00:0706",
+        "updated_at": "2024-0703 01:00:0706"
+    },
+    {
+        "email": "android18@example.com",
+        "role": 2,
+        "password": "testing123",
+        "created_at": "2024-0703 01:00:0706",
+        "updated_at": "2024-0703 01:00:0706"
+    },
+    {
+        "email": "beerus@example.com",
+        "role": 2,
+        "password": "testing123",
+        "created_at": "2024-0703 01:00:0706",
+        "updated_at": "2024-0703 01:00:0706"
+    }
+]

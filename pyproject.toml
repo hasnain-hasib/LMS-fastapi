@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "course-management"
+version = "0.1.0"
+description = ""
+authors = ["Hasnain Hasib <hasibjoy332@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.111.0"
+uvicorn = "^0.30.1"
+alembic = "^1.13.2"
+colorama = "^0.4.6"
+psycopg2-binary = "^2.9.9"
+sqlalchemy-utils = "^0.41.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
